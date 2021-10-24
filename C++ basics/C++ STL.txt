@@ -1,0 +1,54 @@
+Algorithms
+Containers
+Iterators
+
+
+Containers
+1. Vectors- Arrays
+	push_back()
+	pop_back()
+	insert()
+	remove()
+	size()
+	empty()
+2. List-Doubly linked list
+	push_front()
+	pop_front()
+   	push_back()
+	pop_back()
+	front()
+	back()
+	insert()
+	remove()
+	size()
+	empty() 
+3. Forward-list- singly linked list
+	push_back()
+	pop_back()
+	insert()
+	remove()
+	size()
+	empty()
+4. Deque(similar to vectors)
+	push_front()
+	pop_front()
+   	push_back()
+	pop_back()
+	front()
+	back()
+	insert()
+	remove()
+	size()
+	empty() 
+5. Priority-queue (deletes largest value),      6. Stack
+	push()
+	pop()
+	size()
+	empty()
+7. Set(unique value)- sorted set
+	insert()
+	erase()
+	clear()
+	empty()
+8. Multiset(can have duplicates)
+9. Maps
